@@ -6,7 +6,7 @@
 
 #main_part {
     width: 100vw;
-    background: linear-gradient(-45deg, #EE7752, #E73C7E, #23D5AB);
+    background: linear-gradient(-45deg, #A770EF, #23D5AB, #CF8BF3, #FDB99B);
     background-size: 400% 400% !important;
     position: relative;
     animation: change 10s ease-in-out infinite;
