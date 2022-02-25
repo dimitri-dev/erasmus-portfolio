@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Additional :) */
+.work-sans {
+    font-family: 'Work Sans', sans-serif;
+}
