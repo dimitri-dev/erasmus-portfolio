@@ -11,6 +11,15 @@
     position: relative;
     animation: change 10s ease-in-out infinite;
     font-family: "Inter", sans-serif;
+
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    scroll-snap-type: y mandatory;
+}
+
+.scroll_snap {
+    scroll-snap-align: center;
+    word-break: keep-all;
 }
 
 @keyframes change {
